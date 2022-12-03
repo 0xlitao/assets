@@ -1,5 +1,2 @@
-name: tradingview
-desc: tradingview 代理
-
 rules:
   - DOMAIN-SUFFIX, tradingview.com, Proxy
