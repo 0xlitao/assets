@@ -1,6 +1,6 @@
 #SUBSCRIBED https://raw.githubusercontent.com/0xlitao/assets/master/tradingview.stoverride
-name:tradingview
-desc:tradingview 代理
+name: tradingview
+desc: tradingview 代理
 
 rules:
   - DOMAIN-SUFFIX, tradingview.com, Proxy
