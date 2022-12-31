@@ -3,4 +3,5 @@ name: tradingview proxy
 desc: tradingview 代理
 rules:
   - DOMAIN-SUFFIX, tradingview.com, Proxy
-  - DOMAIN-SUFFIX, api.github,com, Proxy
+  - DOMAIN-SUFFIX, api.github.com, Proxy
+  - DOMAIN-SUFFIX, cloud.feedly.com, Proxy
